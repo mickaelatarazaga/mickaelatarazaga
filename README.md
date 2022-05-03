@@ -34,7 +34,6 @@ I enjoy creating software and want to help others do the same.
 
 [![mickaelatarazaga](https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelatarazaga&hide=html&layout=compact&theme=default)](https://github.com/mickaelatarazaga/)
 
-
 ## < Contact me />
 <p align="left">
-<a href="https://www.linkedin.com/in/mickaelatarazaga/" target="blank"><img align="center" src="https://github.com/mickaelatarazaga/mickaelatarazaga/blob/main/assets/image/Linkedin.png?raw=true" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mickaelatarazaga/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
