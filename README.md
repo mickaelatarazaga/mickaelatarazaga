@@ -37,4 +37,4 @@ I enjoy creating software and want to help others do the same.
 
 ## < Contact me />
 <p align="left">
-<a href="https://www.linkedin.com/in/mickaelatarazaga/" target="blank"><img align="center" src="https://github.com/mickaelatarazaga/mickaelatarazaga/blob/main/assets/image/Linkdin.png?raw=true" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mickaelatarazaga/" target="blank"><img align="center" src="https://github.com/mickaelatarazaga/mickaelatarazaga/blob/main/assets/image/Linkedin.png?raw=true" alt="gautamkrishnar" height="30" width="40" /></a>
