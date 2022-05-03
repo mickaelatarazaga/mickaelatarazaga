@@ -16,7 +16,6 @@ I enjoy creating software and want to help others do the same.
  developerRepository.save(developer);
 }
 ```
-
 ## < Lenguages and HardSkills />
 
 <code><img height="50" src="https://github.com/mickaelatarazaga/mickaelatarazaga/blob/main/assets/image/Java.png?raw=true"></code>
@@ -31,3 +30,9 @@ I enjoy creating software and want to help others do the same.
 
 ## < My Social Networks />
 👔 [LinkedIn](https://www.linkedin.com/in/mickaelatarazaga/)
+
+## < My GitHub Statistics />
+
+[![mickaelatarazaga](https://github-readme-stats.vercel.app/api?username=mickaelatarazaga&theme=default&show_icons=true)](https://github.com/mickaelatarazaga/) 
+
+[![mickaelatarazaga](https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelatarazaga&hide=html&layout=compact&theme=default)](https://github.com/mickaelatarazaga/)
