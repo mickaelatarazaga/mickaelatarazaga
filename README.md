@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Micka Tarazaga, i'm <strong>BackEnd Developer</strong>.
+My name is Micka Tarazaga, I'm <strong>BackEnd Developer</strong>.
 I enjoy creating software and want to help others do the same.
 
 ## < About me />
